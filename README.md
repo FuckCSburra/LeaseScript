@@ -1,0 +1,2 @@
+# LeaseScript
+Linux fa schifo.
